@@ -191,6 +191,4 @@ Wigner, E. P. (1960). The unreasonable effectiveness of mathematics in the natur
 
 Wigner, E. P. (1961). Remarks on the mind-body question. In I. J. Good (Ed.), *The scientist speculates*. Heinemann.
 
----
 
-*Companion to: README_uncovered.md — The Capability Foreclosed: Tacit Knowledge, Motivational Displacement, and the Critical Theory of Attentional Misallocation*
